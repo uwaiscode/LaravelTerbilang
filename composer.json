@@ -1,0 +1,22 @@
+{
+    "name": "uwaiscode/laravelterbilang",
+    "description": "Cara mudah mengkonversi nilai angka menjadi tulisan terbilang di laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uwaiscode\\Laravelterbilang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uwais Code",
+            "email": "uwaiscode@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
